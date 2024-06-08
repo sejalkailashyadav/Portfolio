@@ -1,15 +1,24 @@
 export const ProjectList = [
   {
    
-    img: "/srm.png",
-    title: "Simple Record Manager",
+    img: "/whstapp bulk messaging logo.png",
+    title: "Whatsapp-bulk-marketing",
     description:
-      "A lightweight, web-based application designed for managing, viewing, editing, deleting, and searching records with pagination support.",
-    tech_stack: [ "HTML", "CSS" ,"JavaScript"],
-    github_url: "https://github.com/sejalyadav0818/Simple-Record--Manager",
-    demo_url: "https://lucky-mochi-eaba9d.netlify.app/",
+      "AThis project focuses on bulk messaging service via WhatsApp. With countless users relying on WhatsApp for communication, our goal is to streamline messaging processes and enhance user experience.By utilizing PHP and innovative features, we aim to revolutionize how messages are sent, managed, and analyzed,empowering users with efficient communication tools.",
+    tech_stack: [ "PHP", "SQL" ,"Whatsapp business api","Github","VS Code"],
+    github_url: "https://github.com/sejalyadav0818/whatsapp/",
+    demo_url: "https://github.com/sejalyadav0818/whatsapp/",
   },
   {
+    img: "./qmn.png",
+    title: "QuickMDNotes",
+    description:
+      "Developed a user-centric note-taking application using React and TypeScript that provides a more advanced approach compared to traditional note-taking applications",
+    tech_stack: ["React", "TypeScript", "LocalStorage", "Markdown"],
+    github_url: "https://github.com/sejalyadav0818/QuickMDNotes",
+    demo_url: "https://dulcet-pixie-1de16a.netlify.app/",
+  },
+   {
     img: "./qmn.png",
     title: "QuickMDNotes",
     description:
