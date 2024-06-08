@@ -156,4 +156,8 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
     name: "TailwindCSS",
   },
+   {
+    img: "https://img.icons8.com/color/48/meta",
+    name: "WhatsApp Business API",
+  },
 ];
