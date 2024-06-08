@@ -4,7 +4,7 @@ export const ProjectList = [
     img: "/whstapp bulk messaging logo.png",
     title: "Whatsapp-bulk-marketing",
     description:
-      "AThis project focuses on bulk messaging service via WhatsApp. With countless users relying on WhatsApp for communication, our goal is to streamline messaging processes and enhance user experience.By utilizing PHP and innovative features, we aim to revolutionize how messages are sent, managed, and analyzed,empowering users with efficient communication tools.",
+      "AThis project focuses on bulk messaging service via WhatsApp. With countless users relying on WhatsApp for communication, our goal is to streamline messaging processes and enhance user experience.",
     tech_stack: [ "PHP", "SQL" ,"Whatsapp business api","Github","VS Code"],
     github_url: "https://github.com/sejalyadav0818/whatsapp/",
     demo_url: "https://github.com/sejalyadav0818/whatsapp/",
