@@ -20,7 +20,7 @@ function About() {
           </ScrollAnimation> */}
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-              Hello! I'm <strong>Sejal Yadav</strong>, a Full Stack Developer with 9 months of experience, specializing in MongoDB, Express, React.js, Node.js, Nest.js, and JavaScript. Passionate about creating dynamic, high-performing applications.
+              Hello! I'm <strong>Sejal Yadav</strong>, a Software Developer specializing in MongoDB, Express, React.js, Node.js, Nest.js, and JavaScript. Passionate about creating dynamic, high-performing applications.
             </ScrollAnimation>
 
             <br />
