@@ -1,28 +1,32 @@
 export const ProjectList = [
   {
-   
     img: "/whstapp bulk messaging logo.png",
     title: "Whatsapp-bulk-marketing",
-    description:
-      "AThis project focuses on bulk messaging service via WhatsApp. With countless users relying on WhatsApp for communication, our goal is to streamline messaging processes and enhance user experience.",
-    tech_stack: [ "PHP", "SQL" ,"Whatsapp business api","Github","VS Code"],
+    description: "Automated & optimized bulk messaging , delivering  1 lakh+ WhatsApp messages  with  80% less manual effort.Integrated scheduling & tracking , ensuring seamless and efficient customer engagement.",
+    tech_stack: ["Node.js", "SQL", "WhatsApp Business API", "GitHub", "VS Code"],
     github_url: "https://github.com/sejalyadav0818/whatsapp/",
-    demo_url: "https://github.com/sejalyadav0818/whatsapp/",
+    demo_url: "https://github.com/sejalyadav0818/whatsapp/blob/main/readme.md/",
+  },
+  {
+    img: "/pms.png",
+    title: "Compass Cancer Hospital Website (CCH)",
+    description: "Customized & scaled  a hospital website backend for  10K+ monthly visitors .Enhanced database performance, security, and custom features  for a better user experience.",
+    tech_stack: ["Laravel", "MySQL", "JavaScript", "PHP", "Sass"],
+    demo_url: "https://compasscancerhospital.com/",
+  }
+  , {
+    img: "/pms.png",
+    title: "Product Management System",
+    description:
+      "The Product Management System utilizes Express, Nest Js, Prisma, and MySql for a comprehensive solution, with dynamic user roles, authentication, and product management, all powered by the Nest framework.",
+    tech_stack: ["Express", "EJS", "Nest Js", "Prisma", "MySql"],
+    github_url: "https://github.com/sejalyadav0818/product-management-systemm",
+    demo_url: "",
   },
   {
     img: "./qmn.png",
     title: "QuickMDNotes",
-    description:
-      "Developed a user-centric note-taking application using React and TypeScript that provides a more advanced approach compared to traditional note-taking applications",
-    tech_stack: ["React", "TypeScript", "LocalStorage", "Markdown"],
-    github_url: "https://github.com/sejalyadav0818/QuickMDNotes",
-    demo_url: "https://dulcet-pixie-1de16a.netlify.app/",
-  },
-   {
-    img: "./qmn.png",
-    title: "QuickMDNotes",
-    description:
-      "Developed a user-centric note-taking application using React and TypeScript that provides a more advanced approach compared to traditional note-taking applications",
+    description:"Developed a user-centric note-taking application using React and TypeScript that provides a more advanced approach compared to traditional note-taking applications",
     tech_stack: ["React", "TypeScript", "LocalStorage", "Markdown"],
     github_url: "https://github.com/sejalyadav0818/QuickMDNotes",
     demo_url: "https://dulcet-pixie-1de16a.netlify.app/",
@@ -45,16 +49,7 @@ export const ProjectList = [
     tech_stack: ["MongoDB", "Express", "React JS", "Node JS"],
     github_url: "https://github.com/sejalyadav0818/locotagger",
     demo_url: "https://65a4fcf6cd15ad249db1860a--splendid-daifuku-987612.netlify.app/",
-  },
-  {
-    img: "/pms.png",
-    title: "Product Management System",
-    description:
-      "The Product Management System utilizes Express, Nest Js, Prisma, and MySql for a comprehensive solution, with dynamic user roles, authentication, and product management, all powered by the Nest framework.",
-    tech_stack: ["Express","EJS", "Nest Js",	"Prisma","MySql"],
-    github_url: "https://github.com/sejalyadav0818/product-management-systemm",
-    demo_url: "",
-  },
+  }
 ];
 
 
@@ -62,7 +57,7 @@ export const ProjectList = [
 // --------------------------------------- Skills
 
 export const stackList = [
-  
+
 
 
 
@@ -105,6 +100,10 @@ export const stackList = [
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg",
     name: "Express",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg",
+    name: "Laravel",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg",
@@ -156,7 +155,7 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
     name: "TailwindCSS",
   },
-   {
+  {
     img: "https://img.icons8.com/color/48/meta",
     name: "WhatsApp Business API",
   },
