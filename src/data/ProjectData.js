@@ -11,6 +11,7 @@ export const ProjectList = [
     img: "/pms.png",
     title: "Compass Cancer Hospital Website (CCH)",
     description: "Customized & scaled  a hospital website backend for  10K+ monthly visitors .Enhanced database performance, security, and custom features  for a better user experience.",
+    github_url: "",
     tech_stack: ["Laravel", "MySQL", "JavaScript", "PHP", "Sass"],
     demo_url: "https://compasscancerhospital.com/",
   }
