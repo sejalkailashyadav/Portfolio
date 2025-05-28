@@ -4,8 +4,8 @@ export const ProjectList = [
     title: "Whatsapp-bulk-marketing",
     description: "Automated & optimized bulk messaging , delivering  1 lakh+ WhatsApp messages  with  80% less manual effort.Integrated scheduling & tracking , ensuring seamless and efficient customer engagement.",
     tech_stack: ["Node.js", "SQL", "WhatsApp Business API", "GitHub", "VS Code"],
-    github_url: "https://github.com/sejalyadav0818/whatsapp/",
-    demo_url: "https://github.com/sejalyadav0818/whatsapp/blob/main/readme.md/",
+    github_url: "https://github.com/sejalkailashyadav/whatsapp/",
+    demo_url: "https://github.com/sejalkailashyadav/whatsapp/blob/main/readme.md/",
   },
   {
     img: "/pms.png",
@@ -21,7 +21,7 @@ export const ProjectList = [
     description:
       "The Product Management System utilizes Express, Nest Js, Prisma, and MySql for a comprehensive solution, with dynamic user roles, authentication, and product management, all powered by the Nest framework.",
     tech_stack: ["Express", "EJS", "Nest Js", "Prisma", "MySql"],
-    github_url: "https://github.com/sejalyadav0818/product-management-systemm",
+    github_url: "https://github.com/sejalkailashyadav/product-management-systemm",
     demo_url: "",
   },
   {
@@ -29,7 +29,7 @@ export const ProjectList = [
     title: "QuickMDNotes",
     description:"Developed a user-centric note-taking application using React and TypeScript that provides a more advanced approach compared to traditional note-taking applications",
     tech_stack: ["React", "TypeScript", "LocalStorage", "Markdown"],
-    github_url: "https://github.com/sejalyadav0818/QuickMDNotes",
+    github_url: "https://github.com/sejalkailashyadav/QuickMDNotes",
     demo_url: "https://dulcet-pixie-1de16a.netlify.app/",
   },
   {
@@ -38,7 +38,7 @@ export const ProjectList = [
     description:
       "Created a React Event Calendar with i18next for multi-language support, dark mode, CRUD functionality, monthly view with event highlights, and persistent LocalStorage data storage.",
     tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/sejalyadav0818/Event-Calendar",
+    github_url: "https://github.com/sejalkailashyadav/Event-Calendar",
     demo_url: "https://charming-belekoy-3300b5.netlify.app/",
   },
 
@@ -48,7 +48,7 @@ export const ProjectList = [
     description:
       "LocoTagger is a web application that allows users to manage and categorize locations based on country, state, city, and tags.",
     tech_stack: ["MongoDB", "Express", "React JS", "Node JS"],
-    github_url: "https://github.com/sejalyadav0818/locotagger",
+    github_url: "https://github.com/sejalkailashyadav/locotagger",
     demo_url: "https://65a4fcf6cd15ad249db1860a--splendid-daifuku-987612.netlify.app/",
   }
 ];
